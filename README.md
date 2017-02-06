@@ -1,2 +1,3 @@
-# upp-gui-projects
-GUI programs written in Ultimate Plus Plus GUI toolkit for C++
+# Ultimate++ GUI Projects
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+> GUI programs written in Ultimate Plus Plus GUI toolkit for C++

@@ -1,0 +1,14 @@
+uses
+	CtrlLib;
+
+file
+	counter.cpp,
+	counter.h,
+	jk.cpp,
+	jk.h,
+	draw_utils.cpp,
+	main.cpp;
+
+mainconfig
+	"" = "GUI SSE2";
+

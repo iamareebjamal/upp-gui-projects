@@ -1,0 +1,4 @@
+#ifndef _DiningPhilosopher_icpp_init_stub
+#define _DiningPhilosopher_icpp_init_stub
+#include "CtrlLib/init"
+#endif
